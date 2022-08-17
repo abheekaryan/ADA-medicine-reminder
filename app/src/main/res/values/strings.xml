@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ADA</string>
+    <string name="enter_date">ENTER DATE</string>
+    <string name="enter_time">ENTER TIME</string>
+    <string name="enter_medicine_name">ENTER MEDICINE NAME</string>
+    <string name="ada_medicine_reminder">ADA medicine reminder</string>
+    <string name="submit">SUBMIT</string>
+    <string name="view">View</string>
+</resources>
